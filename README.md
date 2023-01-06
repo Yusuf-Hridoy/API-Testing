@@ -6,6 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
+<h3> Create Booking <h3>
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/create_boking_lbriuq.png" alt="project-screenshot" width="500" height="400/">
 
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/get_booking_md1wgh.png" alt="project-screenshot" width="500" height="400/">
