@@ -9,15 +9,19 @@
 <h3> Create Booking <h3>
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/create_boking_lbriuq.png" alt="project-screenshot" width="500" height="400/">
 
-  <h3> Get Booking <h3>
+ <h3> Get Booking <h3>
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/get_booking_md1wgh.png" alt="project-screenshot" width="500" height="400/">
 
+ <h3> Token Generate <h3>
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/token_generate_dfmf1d.png" alt="project-screenshot" width="500" height="400/">
 
+ <h3> Update booking <h3>  
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/update_booking_ou6lx8.png" alt="project-screenshot" width="500" height="400/">
 
+<h3> Delete Booking <h3>   
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998764/api%20testing/delete_booking_sqsw4x.png" alt="project-screenshot" width="500" height="400/">
 
+<h3> Summary Report <h3>
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/newman_report_k8hjir.png" alt="project-screenshot" width="500" height="400/">
 
   
